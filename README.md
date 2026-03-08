@@ -13,11 +13,11 @@ Lean Six Sigma
 Current Focus
 Building Python tools for manufacturing data analysis and process optimization.
 
-Projects
+"""Projects
 Process Control Analysis Tool
 Engineering Automation Scripts
 Semiconductor Yield Analysis
-Manufacturing Data Dashboard
+Manufacturing Data Dashboard"""
 
 Contact
 LinkedIn
